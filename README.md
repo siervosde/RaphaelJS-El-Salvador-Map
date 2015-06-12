@@ -4,3 +4,6 @@ Raphael JS El Salvador Map
 Esta es una adaptación del mapa de El Salvador Utilizando  raphaelJS
 
 http://raphaeljs.com/
+
+DEMO
+http://jsfiddle.net/FJrNN/2593/
